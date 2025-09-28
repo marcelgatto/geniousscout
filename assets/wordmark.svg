@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <rect width="900" height="200" fill="#0f172a"/>
+  <text x="50" y="120" fill="#60a5fa" font-family="Georgia,serif" font-size="72" font-weight="700">Genius</text>
+  <text x="350" y="120" fill="#fbbf24" font-family="Georgia,serif" font-size="72" font-weight="700">Scout</text>
+  <text x="52" y="160" fill="#9ca3af" font-family="Georgia,serif" font-size="22">Playfully academic talent check, in ~15 minutes.</text>
+</svg>

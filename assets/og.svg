@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1022"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad)"/>
+  <text x="80" y="200" fill="#60a5fa" font-family="Georgia,serif" font-size="96" font-weight="700">Genius</text>
+  <text x="540" y="200" fill="#fbbf24" font-family="Georgia,serif" font-size="96" font-weight="700">Scout</text>
+  <text x="82" y="270" fill="#cbd5e1" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="34">A playfully academic 15‑minute talent screen.</text>
+  <rect x="80" y="340" width="1040" height="210" rx="24" fill="#0b1222" stroke="#23304a"/>
+  <text x="110" y="410" fill="#93c5fd" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="28">4 quick tasks:</text>
+  <text x="110" y="455" fill="#e5e7eb" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="28">Number Sequences · Analogies · Digit Span · Rule Inference</text>
+  <text x="110" y="500" fill="#9ca3af" font-family="system-ui,Segoe UI,Roboto,Helvetica,Arial" font-size="24">Export JSON • Print PDF • Share via link</text>
+</svg>
